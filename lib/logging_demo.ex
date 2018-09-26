@@ -1,0 +1,2 @@
+defmodule LoggingDemo do
+end
